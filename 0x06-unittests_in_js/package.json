@@ -1,0 +1,19 @@
+{
+  "name": "unitest",
+  "version": "1.0.0",
+  "description": "alx test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwangidannn/alx-backend-javascript.git"
+  },
+  "author": "Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwangidannn/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/mwangidannn/alx-backend-javascript#readme"
+}
