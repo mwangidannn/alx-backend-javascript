@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mwangidannn/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/mwangidannn/alx-backend-javascript#readme"
+  "homepage": "https://github.com/mwangidannn/alx-backend-javascript#readme",
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
 }
